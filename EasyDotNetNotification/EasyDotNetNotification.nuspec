@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>EasyDotNetNotification</id>
+    <version>1.0.1</version>
+    <title>EasyDotNetNotification</title>
+    <authors>Filipe Andre Floriani</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>A easy way to show notifications</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Filipe Andre Floriani</copyright>
+    <tags>EasyDotNetNotification WPF C# Alert Notification</tags>
+  </metadata>
+</package>

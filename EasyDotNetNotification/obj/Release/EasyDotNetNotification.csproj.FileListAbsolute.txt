@@ -1,0 +1,13 @@
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\bin\Release\EasyDotNetNotification.dll
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\bin\Release\EasyDotNetNotification.pdb
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\obj\Release\EasyDotNetNotification.csprojAssemblyReference.cache
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\obj\Release\Usercontrols\NotificationAlertAreaControl.g.cs
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\obj\Release\Usercontrols\NotificationAlertControl.g.cs
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\obj\Release\EasyDotNetNotification_MarkupCompile.cache
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\obj\Release\EasyDotNetNotification_MarkupCompile.lref
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\obj\Release\Usercontrols\NotificationAlertAreaControl.baml
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\obj\Release\Usercontrols\NotificationAlertControl.baml
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\obj\Release\EasyDotNetNotification.g.resources
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\obj\Release\EasyDotNetNotification.csproj.CoreCompileInputs.cache
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\obj\Release\EasyDotNetNotification.dll
+C:\_DevTests\EasyDotNetNotification\EasyDotNetNotification\obj\Release\EasyDotNetNotification.pdb

@@ -1,0 +1,19 @@
+﻿<Window x:Class="EasyDotNetNotification.Example.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EasyDotNetNotification.Example"
+        xmlns:NotificationArea="clr-namespace:EasyDotNetNotification.Usercontrols;assembly=EasyDotNetNotification"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280">
+    <Grid>
+        <Button VerticalAlignment="Top" HorizontalAlignment="Left" Content="Texto" Click="Button_Click" Margin="23,10,0,0" Height="52" Width="167"/>
+        <Button VerticalAlignment="Top" HorizontalAlignment="Left" Content="Título e Texto" Click="Button_Click_1" Margin="224,10,0,0" Height="52" Width="167"/>
+        <Button VerticalAlignment="Top" HorizontalAlignment="Left" Content="Texto e Imagem" Click="Button_Click_2" Margin="426,10,0,0" Height="52" Width="167"/>
+        <Button VerticalAlignment="Top" HorizontalAlignment="Left" Content="Texto, Imagem e Botão" Click="Button_Click_3" Margin="624,10,0,0" Height="52" Width="167"/>
+        <Button VerticalAlignment="Top" HorizontalAlignment="Left" Content="Título, Texto, Imagem e Botão" Click="Button_Click_4" Margin="822,10,0,0" Height="52" Width="167"/>
+
+        <NotificationArea:NotificationAlertAreaControl x:Name="NotificationArea" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+    </Grid>
+</Window>
