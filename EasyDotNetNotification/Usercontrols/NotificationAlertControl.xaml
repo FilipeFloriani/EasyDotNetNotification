@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:EasyDotNetNotification.Usercontrols"
              mc:Ignorable="d" MinHeight="50" Margin="5"
-             d:DesignWidth="300">
+             Width="300">
 
     <Border BorderThickness="0" Background="#4b4b4b" CornerRadius="5">
         <Grid>

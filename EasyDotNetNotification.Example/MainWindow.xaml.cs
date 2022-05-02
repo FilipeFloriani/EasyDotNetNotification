@@ -1,18 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+﻿using System.Windows;
 
 namespace EasyDotNetNotification.Example
 {
@@ -25,7 +11,7 @@ namespace EasyDotNetNotification.Example
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            NotificationArea.CreateNotificationAlert(4, "Notificação teste");
+            NotificationArea.CreateNotificationAlert(4, "Test notification text");
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
@@ -45,7 +31,7 @@ namespace EasyDotNetNotification.Example
 
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
-            NotificationArea.CreateNotificationAlert(4, "Título teste", "Notificação teste", NotificationImage.info, true);
+            NotificationArea.CreateNotificationAlert(7, "Notification title", "Notification text", NotificationImage.info, true);
         }
     }
 }
