@@ -24,5 +24,7 @@ namespace EasyDotNetNotification.Usercontrols
         {
             InitializeComponent();
         }
+
+        public string Teste { get; set; }
     }
 }

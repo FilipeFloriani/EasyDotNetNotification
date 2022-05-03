@@ -2,14 +2,13 @@
 <package >
   <metadata>
     <id>EasyDotNetNotification</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <title>EasyDotNetNotification</title>
     <authors>Filipe Andre Floriani</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <!-- <icon>icon.png</icon> -->
     <projectUrl>https://github.com/FilipeFloriani/EasyDotNetNotification</projectUrl>
-    <description>A easy way to show notifications</description>
+    <description>A easy way to show custom notifications</description>
     <copyright>Filipe Andre Floriani</copyright>
     <tags>EasyDotNetNotification WPF C# Alert Notification</tags>
   </metadata>

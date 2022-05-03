@@ -14,6 +14,6 @@
         <Button VerticalAlignment="Top" HorizontalAlignment="Left" Content="Texto, Imagem e Botão" Click="Button_Click_3" Margin="624,10,0,0" Height="52" Width="167"/>
         <Button VerticalAlignment="Top" HorizontalAlignment="Left" Content="Título, Texto, Imagem e Botão" Click="Button_Click_4" Margin="822,10,0,0" Height="52" Width="167"/>
 
-        <NotificationArea:NotificationAlertAreaControl x:Name="NotificationArea" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+        <NotificationArea:NotificationAlertAreaControl x:Name="NotificationArea" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="500"/>
     </Grid>
 </Window>
